@@ -99,4 +99,4 @@ def ejecutar_analisis_completo():
         messagebox.showerror("Error de Ejecución", f"Hubo un problema con el archivo: {e}")
 
 if __name__ == "__main__":
-    ejecutar_analisis_completo()gaaaaaaa
+    ejecutar_analisis_completo()
